@@ -1,0 +1,4 @@
+﻿  Path-Visualizer.cpp
+C:\Users\fnx\source\repos\Path-Visualizer\Path-Visualizer.cpp(309,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fnx\source\repos\Path-Visualizer\Path-Visualizer.cpp(322,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Path-Visualizer.vcxproj -> C:\Users\fnx\source\repos\Path-Visualizer\x64\Debug\Path-Visualizer.exe
